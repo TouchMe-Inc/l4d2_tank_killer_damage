@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"BRACKET_START"
+	{
+		"en"			"┌ "
+	}
+
+	"BRACKET_MIDDLE"
+	{
+		"en"			"├ "
+	}
+
+	"BRACKET_END"
+	{
+		"en"			"└ "
+	}
+
+	"TAG"
+	{
+		"en"			"<{green}Tank Killer Damage{default}>"
+	}
+
+	"SURVIVOR_KILLER"
+	{
+		"#format"		"{1:s},{2:4.d},{3:.0f}"
+		"en"			"{default}{2} [{3}%%] {blue}{1}"
+	}
+}
