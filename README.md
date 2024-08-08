@@ -1,2 +1,2 @@
 # About tank_killer_damage
-Print damage to Tank
+Displays in chat the damage done to the tank
