@@ -8,11 +8,11 @@
 
 public Plugin myinfo =
 {
-	name = "TankKillerDamage",
-	author = "TouchMe",
-	description = "Print damage to Tank",
-	version = "build0001",
-	url = "https://github.com/TouchMe-Inc/l4d2_tank_killer_damage"
+	name = 			"TankKillerDamage",
+	author = 		"TouchMe",
+	description = 	"Displays in chat the damage done to the tank",
+	version = 		"build0001",
+	url = 			"https://github.com/TouchMe-Inc/l4d2_tank_killer_damage"
 }
 
 
